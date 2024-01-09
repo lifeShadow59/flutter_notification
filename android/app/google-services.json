@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319826961152",
+    "project_id": "coc-api-4fadf",
+    "storage_bucket": "coc-api-4fadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319826961152:android:3c6ca5c5a446e0ed2009e5",
+        "android_client_info": {
+          "package_name": "com.mycompany.notificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6l_R_3r73u29lmIk_dHHK6hvSyphyPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
